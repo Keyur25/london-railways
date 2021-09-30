@@ -2,7 +2,7 @@
 
 ## About
 
-About description.
+This program works out the minimum number of stops between two railway stations in London and finds a minimum distance route between two railway stations in London. And given a list of stations, this program will try to find an optimal (or very close to optimal) path through all of the stations. It calculates all of this using graph theory.
 
 I coded this in Python using a Jupyter Notebook.
 
